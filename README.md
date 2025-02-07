@@ -1,6 +1,6 @@
 # business_requirement
 
-Hi. Maksym Nykonchuk.
+Hi.
 Nice to meet you.
 I wanna discuss about some business.
 
